@@ -11,4 +11,4 @@ let texto = "Andrey"
 
 
 console.log(typeof minhaVar)
-console.log(typeof varNull)
+console.log(typeof var)

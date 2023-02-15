@@ -3,7 +3,7 @@
 
 // conversão implícita
 const numero = 450;
-const numeroString = Number("450A");
+const numeroString = Number("450git");
 
 
 //Number()
