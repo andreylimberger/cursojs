@@ -44,3 +44,6 @@ console.log(minhaLet); // "eu sou um texto"
 minhaLet = 100;
 console.log(minhaLet); //100giy
 
+
+//Teste novo de alteração
+
